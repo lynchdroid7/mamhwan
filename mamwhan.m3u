@@ -486,3 +486,77 @@ http://xtv.ooo:8080/88876776555/87677666654/351001
 https://h1.intechmedia.net/intech/ch5.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aoyphcfrgv2pn2r/medstv.png" group-title="RELIGI",Meds TV
 https://h1.intechmedia.net/intech/ch23.m3u8
+
+#EXTINF:-1, La 1 España 
+https://ztnr.rtve.es/ztnr/1688877.m3u8
+#EXTINF:-1, Clan España 
+#EXTINF:-1, Las Estrellas
+https://azt-cl.otteravision.com/azt/cl/cl_1080p.m3u8
+
+#EXTINF:-1, ADN 40
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8? 
+#EXTINF:-1,TELEVISA NOVELAS
+https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8? 
+#EXTINF:-1, AmigosTV Chiquimula GT 
+https://antmedia.cablevisionrobles.com:5443/LiveApp/streams/CqwAgRagMvBNYN8c1731608980342.m3u8
+#EXTINF:-1, CANAL 27 Guatemala
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/chunklist_b1712000_sleng.m3u8
+
+
+#EXTINF:-1, ABC East
+http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
+ 
+#EXTINF:-1, BET GOSPEL
+http://fl2.moveonjoy.com/BET_GOSPEL/index.m3u8
+
+#EXTINF:-1, Cartoon Network East
+http://fl2.moveonjoy.com/CARTOON_NETWORK/index.m3u8
+
+#EXTINF:-1, ESPN 2
+http://fl2.moveonjoy.com/ESPN_2/index.m3u8
+
+#EXTINF:-1, FS1
+http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
+
+#EXTINF:-1, Hallmark Channel East
+http://fl2.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
+
+#EXTINF:-1, Hallmark Drama 
+http://fl2.moveonjoy.com/HALLMARK_DRAMA/index.m3u8
+
+#EXTINF:-1 group-title="Movies", HBO East
+http://fl2.moveonjoy.com/HBO/index.m3u8
+#EXTINF:-1 group-title="Movies",HBO
+http://143.244.60.97/HBO/index.m3u8
+#EXTINF:-1 group-title="Movies",HBO 2
+https://fl2.moveonjoy.com/HBO_2/index.m3u8
+#EXTINF:-1 group-title="Movies",HBO Family
+https://fl2.moveonjoy.com/HBO_FAMILY/index.m3u8
+
+#EXTINF:-1,MTV
+https://fl2.moveonjoy.com/MTV/index.m3u8
+#EXTINF:-1,MTV 2
+https://fl2.moveonjoy.com/MTV_2/index.m3u8
+#EXTINF:-1 group-title="Movies",FX
+https://fl2.moveonjoy.com/FX/index.m3u8
+#EXTINF:-1 group-title="Movies",FXX
+https://fl2.moveonjoy.com/FXX/index.m3u8
+
+#EXTINF:-1 group-title="Movies", Cinemax East
+https://fl61.moveonjoy.com/CINEMAX_EAST/index.m3u8
+
+#EXTINF:-1, TLC
+https://fl2.moveonjoy.com/TLC/index.m3u8
+#EXTINF:-1, VH1
+https://fl2.moveonjoy.com/VH1/index.m3u8
+#EXTINF:-1, Disney JR
+https://fl2.moveonjoy.com/DISNEY_JR/index.m3u8
+#EXTINF:-1, NICK JR
+https://fl2.moveonjoy.com/NICK_JR/index.m3u8
+#EXTINF:-1, NICK MUSIC
+https://fl2.moveonjoy.com/NICK_MUSIC/index.m3u8
+#EXTINF:-1, HGTV
+https://fl2.moveonjoy.com/HGTV/index.m3u8
+#EXTINF:-1, NICKTOONS
+https://fl2.moveonjoy.com/NICKTOONS/index.m3u8
+
