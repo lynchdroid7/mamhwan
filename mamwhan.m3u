@@ -343,3 +343,61 @@ https://fl2.moveonjoy.com/HGTV/index.m3u8
 #EXTINF:-1, NICKTOONS
 https://fl2.moveonjoy.com/NICKTOONS/index.m3u8
 
+#EXTINF:-1, Discovery
+http://89.105.221.127/Discovery/index.m3u8?token=test
+#EXTINF:-1, Nickelodeon
+http://89.105.221.127/Nickelodeon/index.m3u8?token=test
+#EXTINF:-1, NationalGeographic
+http://89.105.221.127/NationalGeographic/index.m3u8?token=test
+#EXTINF:-1, NatGeoWild
+http://89.105.221.127/NatGeoWild/index.m3u8?token=test
+#EXTINF:-1, Disney
+http://89.105.221.127/Disney/index.m3u8?token=test
+#EXTINF:-1, HBO
+http://89.105.221.127/HBO/index.m3u8?token=test
+#EXTINF:-1, HBO 2
+http://89.105.221.127/hbo2/index.m3u8?token=test
+#EXTINF:-1,FilmBoxPremium HD
+http://185.166.252.230/FilmBoxPremium/index.m3u8
+#EXTINF:-1, FX
+http://89.105.221.127/FX/index.m3u8?token=test
+#EXTINF:-1,AXN
+http://172.93.102.112:8989/278814_.m3u8
+#EXTINF:-1,AXN MOVIES
+http://172.93.102.112:8989/278815_.m3u8
+#EXTINF:-1,Dmax HD
+http://185.166.252.230/Dmax/index.m3u8
+#EXTINF:-1,HOLLYWOOD
+http://172.93.102.112:8989/278839_.m3u8
+#EXTINF:-1,Cinemax 1 HD
+http://185.166.252.230/Cinemax1/index.m3u8
+#EXTINF:-1,Cinemax 2 HD
+http://185.166.252.230/Cinemax2/index.m3u8
+#EXTINF:-1,Star Movies HD
+http://185.166.252.230/StarMovies/index.m3u8
+#EXTINF:-1,PARAMOUNT NETWORK
+http://172.93.102.112:8989/278859_.m3u8
+#EXTINF:-1, SYFY
+http://89.105.221.127/SYFY/index.m3u8?token=test
+#EXTINF:-1,Disney HD
+http://185.166.252.230/Disney/index.m3u8
+#EXTINF:-1,DaVinci HD
+http://185.166.252.230/DaVinci/index.m3u8
+#EXTINF:-1, Outdoor Channel
+http://89.105.221.127/OutdoorChannel/index.m3u8?token=test
+#EXTINF:-1, Food Network
+http://89.105.221.127/foodnetwork/index.m3u8?token=test
+#EXTINF:-1, NHL
+http://89.105.221.127/nhl/index.m3u8?token=test
+#EXTINF:-1, TENNIS
+http://89.105.221.127/tennis/index.m3u8?token=test
+#EXTINF:-1,MTVHits HD
+http://185.166.252.230/MTVHits/index.m3u8
+#EXTINF:-1,AnimalPlanet HD
+http://185.166.252.230/AnimalPlanet/index.m3u8
+#EXTINF:-1,bein1
+https://ww.dooballfree.vip/live/bein1/playlist.m3u8
+#EXTINF:-1,bein2 HD
+https://ww.dooballfree.vip/live/bein2/playlist.m3u8
+#EXTINF:-1,bein3
+https://ww.dooballfree.vip/live/bein3/playlist.m3u8
