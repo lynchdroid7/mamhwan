@@ -401,3 +401,20 @@ https://ww.dooballfree.vip/live/bein1/playlist.m3u8
 https://ww.dooballfree.vip/live/bein2/playlist.m3u8
 #EXTINF:-1,bein3
 https://ww.dooballfree.vip/live/bein3/playlist.m3u8
+
+#EXTINF:0,500. SKY SPORTS FOOTBALL
+http://178.33.239.54:8080/500a/index.m3u8
+#EXTINF:0,501. SKY SPORTS NEWS
+http://178.33.239.54:8080/501a/index.m3u8
+#EXTINF:0,502. SKY SPORT MAIN EVENT
+http://178.33.239.54:8080/502a/index.m3u8
+#EXTINF:0,503. SKY SPORT CRICKET
+http://178.33.239.54:8080/503a/index.m3u8
+#EXTINF:0,504. SKY SPORT ACTION
+http://178.33.239.54:8080/504a/index.m3u8
+#EXTINF:0,506. SKY SPORT PREMIER LEAGUE
+http://178.33.239.54:8080/506a/index.m3u8
+#EXTINF:0,507. SKY SPORTS MIX HD
+http://178.33.239.54:8080/507a/index.m3u8
+#EXTINF:0,508. Sky SPORTS F1
+http://178.33.239.54:8080/508a/index.m3u8
