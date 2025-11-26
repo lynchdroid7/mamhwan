@@ -395,6 +395,11 @@ http://89.105.221.127/tennis/index.m3u8?token=test
 http://185.166.252.230/MTVHits/index.m3u8
 #EXTINF:-1,AnimalPlanet HD
 http://185.166.252.230/AnimalPlanet/index.m3u8
+#EXTINF:-1,History HD
+http://185.166.252.230/History/index.m3u8
+#EXTINF:-1,History2 HD
+http://185.166.252.230/History2/index.m3u8
+
 #EXTINF:-1,bein1
 https://ww.dooballfree.vip/live/bein1/playlist.m3u8
 #EXTINF:-1,bein2 HD
@@ -418,3 +423,5 @@ http://178.33.239.54:8080/506a/index.m3u8
 http://178.33.239.54:8080/507a/index.m3u8
 #EXTINF:0,508. Sky SPORTS F1
 http://178.33.239.54:8080/508a/index.m3u8
+
+
